@@ -5,5 +5,6 @@ const root = new Vue({
     lastName: "Simpson",
     role: "Chemist and safety inspector",
     address: "742 Evergreen Terrace, Springfield, United States",
+    photo: "img/homer-simpson.jpg",
   },
 });
